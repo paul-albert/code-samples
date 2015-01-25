@@ -1,2 +1,2 @@
-# code_samples
+# code samples
 code samples
