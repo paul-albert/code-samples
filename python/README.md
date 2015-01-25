@@ -1,2 +1,2 @@
 # python
-python code samples
+some Python code samples

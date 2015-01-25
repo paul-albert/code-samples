@@ -1,2 +1,2 @@
 # php
-php code samples
+some PHP code samples
